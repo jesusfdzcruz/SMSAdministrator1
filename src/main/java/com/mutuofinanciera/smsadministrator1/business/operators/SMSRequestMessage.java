@@ -5,7 +5,6 @@
  */
 package com.mutuofinanciera.smsadministrator1.business.operators;
 
-import com.mutuofinanciera.smsadministrator1.business.OperatorsList;
 import com.mutuofinanciera.smsadministrator1.business.operators.web.SMSMessageBusiness;
 import com.mutuofinanciera.smsadministrator1.constants.AdministratorOperations;
 
